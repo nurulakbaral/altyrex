@@ -29,19 +29,23 @@ Additional details for each step in the big roadmap below:
 ### AI Agent for Workspace Configuration  
 
 **Goal**: -
+
 **Key features needed:** -
 
 ### Minimal Workspace Code Generator
 
 **Goal**: -
+
 **Key features needed:** -
 
 ### CI/CD Setup Integration
 
 **Goal**: -
+
 **Key features needed:** -
 
 ### Documentation
 
 **Goal**: -
+
 **Key features needed:** -
