@@ -15,3 +15,8 @@ Altyrex does not add extra abstraction layers or modify the original workspace c
 ## Usage
 
 Just clone this repository and start adding your DAMN projects 😁
+
+
+## Roadmap and Status
+
+You can find the roadmap and status of Altyrex's development in the [ROADMAP.md](ROADMAP.md) file.
