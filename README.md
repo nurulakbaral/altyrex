@@ -11,3 +11,7 @@ _What if you later want to migrate to a more battle-tested, fully featured, and 
 Modern tools such as [Nx](https://nx.dev/), [Moonrepo](https://moonrepo.dev/), and [Turborepo](https://turborepo.dev/) all support migration from pnpm workspaces. So there is no need to worry — Altyrex is built on reliable and straightforward workspace systems: pnpm workspaces for JavaScript/TypeScript, Cargo workspaces for Rust, and Go workspaces for Go. This keeps the setup simple for starting out while still giving you a smooth path to scale later.
 
 Altyrex does not add extra abstraction layers or modify the original workspace configuration. It is simply a minimal template built on top of the native workspace systems, so you can start quickly without unnecessary complexity while still keeping full flexibility for future scaling and migration.
+
+## Usage
+
+Just clone this repository and start adding your DAMN projects 😁
