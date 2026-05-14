@@ -4,7 +4,7 @@ Altyrex is an opinionated minimal monorepo with polyglot support that you can cu
 
 ## Why?
 
-Sometimes, the best way to start a large project is with something simple but reliable instead of jumping straight into a complex setup. You can see examples such as [Agent Browser (Rust and TypeScript)](https://github.com/vercel-labs/agent-browser/tree/55f38f4d81981f0191c730005c419958c7d20605), [Rolldown (Rust and TypeScript)](https://github.com/rolldown/rolldown/tree/f7bc607aa3658777f0d9a769246f6320dcba7a2f), [Chakra UI](https://github.com/chakra-ui/chakra-ui/tree/34c614ea10d52b80f7db7ea41bd6895acd6de354), [Ariakit](https://github.com/ariakit/ariakit/tree/a518ea1b3822e821cf07d2e597d4091e6e183e23) using pnpm workspaces for package management.
+Sometimes, the best way to start a large project is with something simple but reliable instead of jumping straight into a complex setup. You can see examples such as [Agent Browser (Rust and TypeScript)](https://github.com/vercel-labs/agent-browser/tree/55f38f4d81981f0191c730005c419958c7d20605), [Rolldown (Rust and TypeScript)](https://github.com/rolldown/rolldown/tree/f7bc607aa3658777f0d9a769246f6320dcba7a2f), [Chakra UI](https://github.com/chakra-ui/chakra-ui/tree/34c614ea10d52b80f7db7ea41bd6895acd6de354), and [Ariakit](https://github.com/ariakit/ariakit/tree/a518ea1b3822e821cf07d2e597d4091e6e183e23) using pnpm workspaces for package management.
 
 _What if you later want to migrate to a more battle-tested, fully featured, and scalable monorepo solution?_
 
