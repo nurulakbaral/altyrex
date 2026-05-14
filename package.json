@@ -1,7 +1,7 @@
 {
-  "name": "@monorepo/root",
-  "version": "1.0.0",
-  "description": "A single origin for a monorepo (pnpm workspace)",
+  "name": "@altyrex/root",
+  "version": "0.1.0",
+  "description": "Minimal monorepo with polyglot support.",
   "scripts": {},
   "keywords": [
     "monorepo",
